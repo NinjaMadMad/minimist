@@ -1,4 +1,6 @@
 # minimist
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fminimist.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Fminimist?ref=badge_shield)
+
 
 parse argument options
 
@@ -93,3 +95,6 @@ npm install minimist
 # license
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNinjaMadMad%2Fminimist.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNinjaMadMad%2Fminimist?ref=badge_large)
